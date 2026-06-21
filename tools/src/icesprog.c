@@ -25,7 +25,7 @@
 #include <unistd.h>
 
 #include <hidapi.h>
-#include <libusb.h>
+#include <usb.h>
 
 #include <getopt.h>
 
