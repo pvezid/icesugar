@@ -38,7 +38,7 @@ endif
 
 DEFAULT_CFLAGS += -Iinclude/
 
-LIBUSB = libusb-1.0
+LIBUSB = libusb
 
 #HIDAPI = hidapi-libusb
 HIDAPI = hidapi-hidraw
